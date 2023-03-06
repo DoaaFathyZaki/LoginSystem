@@ -1,0 +1,37 @@
+body{
+    background-color: #24353F;
+    font-family: 'Titillium Web', sans-serif;
+    height: 100vh;
+}
+.container{
+    background-color:#24353F ;
+    box-shadow: 10px 10px 50px black;
+}
+h1{
+    color: #17a2b8;
+}
+.form-control{
+    width: 90%;
+    margin-inline: auto;
+}
+::placeholder {
+    color: rgb(183, 174, 174) !important; 
+}
+.btnclass{
+    width: 90%;
+}
+.container2{
+    background-color:#24353F ;
+    box-shadow: 10px 10px 50px black;
+    height: 100%;  
+}
+.welcoming{
+    background-color:#24353F ;
+    box-shadow: 10px 10px 50px black;
+}
+a{
+color: #0dcaf0;
+}
+a:hover{
+    color: black;
+}
